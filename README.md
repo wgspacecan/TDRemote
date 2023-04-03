@@ -1,9 +1,4 @@
 # TDRemote
 
-# Touch Designer
-# TouchOSC
-
-#
-# 
-#
-#
+### Touch Designer
+### TouchOSC
